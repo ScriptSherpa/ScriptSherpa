@@ -1,50 +1,79 @@
-# 🚀 Nikhil Malvi | ScriptSherpa  
-🎯 AI | Machine Learning | Data Science | Robotics | IoT  
-
-![GitHub Banner](https://source.unsplash.com/1600x400/?technology,robotics)
-
-## 👋 About Me  
-Hi, I'm **Nikhil Malvi**, an AI and Data Science enthusiast, currently an intern at **DRDO**, specializing in **Robotics, IoT, and AI**. I am passionate about developing innovative solutions and leveraging technology to solve real-world problems.  
-
-- 🔭 Currently working on **AI, ML, and Embedded Systems**
-- 🎓 Pursuing projects in **Data Science, Computer Vision, and Automation**
-- 📌 Skilled in **Python, Embedded C, Power BI, Jupyter, and Cloud Technologies**
-- 🤖 Love working with **Autonomous Systems and Robotics**
-- 🚀 Exploring **Deep Learning, AI-driven UAVs, and Smart IoT Applications**  
+<div align="center">
+  <img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="400" />
+</div>
 
 ---
 
-## 📌 My Tech Stack  
-🖥️ **Programming:** Python, C, C++, Embedded C  
-📊 **Data Science & ML:** Pandas, NumPy, Scikit-Learn, TensorFlow, Power BI  
-🔌 **Embedded Systems:** STM32, Arduino, Raspberry Pi  
-☁️ **Cloud & DevOps:** AWS,GitHub Actions  
-🤖 **AI & Robotics:** OpenCV, ROS, Path Planning Algorithms  
+<h1 align="center">Hey 👋, I'm Nikhil Malvi</h1>
+<h3 align="center">An AI & Robotics Enthusiast | Data Scientist | NCC Cadet | Intern at DRDO 🚀</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ScriptSherpa&color=blue" alt="profile views" />
+</p>
 
 ---
 
-## 📂 Featured Projects  
-🔥 **[AI-and-ML-Journey](https://github.com/ScriptSherpa/AI-and-Ml-journey)** - My learning journey in AI and ML.  
-📊 **[EDA](https://github.com/ScriptSherpa/EDA)** - Exploratory Data Analysis repository.  
-🕵️‍♂️ **[Web-Scraping](https://github.com/ScriptSherpa/Web-scrapping)** - Web scraping scripts using Python.  
-🚀 **[Autonomous-AI-Drone](https://github.com/ScriptSherpa/Advanced-Autonomous-Drone-Navigation-System)** - AI-driven autonomous drone navigation.  
-🎤 **[JARVIS](https://github.com/ScriptSherpa/JARVIS)** - A voice assistant with a cool GUI.  
-
-Check out more of my projects 👉 [GitHub Repositories](https://github.com/ScriptSherpa?tab=repositories)  
+### 🚀 About Me  
+- 🎯 **Intern at DRDO** | **NCC Cadet** | **Volleyball Team Captain 🏐**  
+- 💡 Passionate about **AI, Machine Learning, Robotics, and IoT**  
+- 🔭 Currently working on **AI-driven UAVs & Smart IoT Applications**  
+- 📚 Always learning **Deep Learning, Embedded Systems, and Data Science**  
+- ⚡ Fun fact: **Chai is better than Coffee | Change my mind!**  
 
 ---
 
-## 📬 Connect with Me  
-📧 **Email:** malvinikhil177@gmail.com 
+### 🛠 Tech Stack  
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/gc-nikhil-malvi-757647241/
-
-🐦 **Twitter:** https://x.com/captain_slyvest
-
-🌐 **Portfolio:** https://sherpa-nikhil-portfolio.netlify.app/
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="TensorFlow" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="OpenCV" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="Arduino" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" />
+</div>
 
 ---
 
-⭐ **If you find my work interesting, consider giving a star!** ⭐  
+### 📊 GitHub Stats  
 
-![Profile Views](https://komarev.com/ghpvc/?username=ScriptSherpa&color=brightgreen)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ScriptSherpa&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=ScriptSherpa&theme=dark&hide_border=false" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ScriptSherpa&layout=compact&theme=dracula" height="150" alt="Top Languages" />
+</div>
+
+---
+
+### 🌎 Connect with Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ScriptSherpa.ScriptSherpa" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ScriptSherpa/ScriptSherpa/output/snake.svg" alt="Snake animation" />
+</div>
