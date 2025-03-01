@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="IMG-20250301-WA0013.jpg" width="400" />
+  <img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="400" />
 </div>
 
 ---
@@ -70,10 +70,12 @@
 
 ---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ScriptSherpa.ScriptSherpa" />
-</div>
+### 🐍 GitHub Contribution Snake Animation  
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ScriptSherpa/ScriptSherpa/output/snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ScriptSherpa.ScriptSherpa" />
 </div>
