@@ -36,8 +36,11 @@ Check out more of my projects 👉 [GitHub Repositories](https://github.com/Scri
 
 ## 📬 Connect with Me  
 📧 **Email:** malvinikhil177@gmail.com 
+
 🔗 **LinkedIn:** https://www.linkedin.com/in/gc-nikhil-malvi-757647241/
+
 🐦 **Twitter:** https://x.com/captain_slyvest
+
 🌐 **Portfolio:** https://sherpa-nikhil-portfolio.netlify.app/
 
 ---
