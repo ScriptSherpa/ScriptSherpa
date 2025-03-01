@@ -18,7 +18,7 @@ Hi, I'm **Nikhil Malvi**, an AI and Data Science enthusiast, currently an intern
 🖥️ **Programming:** Python, C, C++, Embedded C  
 📊 **Data Science & ML:** Pandas, NumPy, Scikit-Learn, TensorFlow, Power BI  
 🔌 **Embedded Systems:** STM32, Arduino, Raspberry Pi  
-☁️ **Cloud & DevOps:** AWS, Docker, GitHub Actions  
+☁️ **Cloud & DevOps:** AWS,GitHub Actions  
 🤖 **AI & Robotics:** OpenCV, ROS, Path Planning Algorithms  
 
 ---
@@ -35,10 +35,10 @@ Check out more of my projects 👉 [GitHub Repositories](https://github.com/Scri
 ---
 
 ## 📬 Connect with Me  
-📧 **Email:** your.email@example.com  
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)  
-🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)  
+📧 **Email:** malvinikhil177@gmail.com 
+🔗 **LinkedIn:** https://www.linkedin.com/in/gc-nikhil-malvi-757647241/
+🐦 **Twitter:** https://x.com/captain_slyvest
+🌐 **Portfolio:** https://sherpa-nikhil-portfolio.netlify.app/
 
 ---
 
