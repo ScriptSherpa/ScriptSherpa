@@ -18,7 +18,7 @@
 💡 Passionate about **AI, Machine Learning, Robotics, and IoT**  
 🔭 Currently working on **AI-driven UAVs & Smart IoT Applications**  
 📚 Always learning **Deep Learning, Embedded Systems, and Data Science**  
-⚡ Fun fact: **Chai > Coffee | Change my mind!**  
+  
 
 ---
 
