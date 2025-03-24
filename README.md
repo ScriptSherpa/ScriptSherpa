@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=ScriptSherpa&color=blue" alt="Profile Views" />
 </p>
 
----
+----
 
 ## 🚀 About Me  
 🎯 **Intern at DRDO** | **NCC Cadet** | **Volleyball Team Captain 🏐**  
@@ -20,7 +20,7 @@
 📚 Always learning **Deep Learning, Embedded Systems, and Data Science**  
   
 
----
+----
 
 ## 🛠 Tech Stack  
 <div align="center">
