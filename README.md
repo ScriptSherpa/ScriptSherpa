@@ -2,7 +2,7 @@
   <img src="IMG-20250301-WA0013.jpg" width="300" />
 </div> 
 
------
+---- 
 
 <h1 align="center">Hey 👋, I'm Nikhil Malvi</h1>
 <h3 align="center">AI & Robotics Enthusiast | Data Scientist | NCC Cadet | Intern at DRDO 🚀</h3>
