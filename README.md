@@ -16,7 +16,7 @@
 ## 🚀 About Me  
 🎯 **Intern at DRDO** | **NCC Cadet** | **Volleyball Team Captain 🏐**  
 💡 Passionate about **AI, Machine Learning, Robotics, and IoT**  
-🔭 Currently working on **AI-driven UAVs & Smart IoT Applications**  
+🔭 Currently working on **AI-driven UAVs & Smart IoT Applications** 
 📚 Always learning **Deep Learning, Embedded Systems, and Data Science**  
   
 
