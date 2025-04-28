@@ -4,9 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Nikhil+👋;+AI/ML+Engineer+|+Deep+Learning+|+Embedded+Systems+Enthusiast;Let's+build+something+cool!&center=true&size=30&width=1000">
   </a>
 </h1>
-
-
-
 </h1>
 
 
