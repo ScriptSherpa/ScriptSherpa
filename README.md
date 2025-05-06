@@ -22,7 +22,6 @@
   🔬 Passionate about AI/ML, Embedded C, and Deep Learning <br>
   🎯 Working on a YOLO-based object tracking system & cybersecurity mini-projects<br>
   🛡️ Exploring ethical hacking and vulnerability assessment<br>
-  🧠 On a mission to master DSA and Embedded C before placements<br>
   📈 Learning PyTorch, Power BI, and AWS for real-world applications<br>
   📚 Love deep research and currently crafting my first IEEE paper on XGBoost optimization<br>
   ⚙️ Big fan of low-level hardware programming with STM32 microcontrollers
