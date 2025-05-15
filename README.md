@@ -62,7 +62,6 @@
 </picture>
 </div>
 
----
 ## 🌎 Connect with Me
 <div align="center">
 <a href="https://www.linkedin.com/in/gc-nikhil-malvi-757647241/">
@@ -75,7 +74,7 @@
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </div>
----
+
 <!-- GitHub Trophies Section -->
 <div align="center" style="background-color:#1e1e2f; padding: 20px; border-radius: 12px; margin-bottom: 30px;">
   <h2 style="color:#ff6f61; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
