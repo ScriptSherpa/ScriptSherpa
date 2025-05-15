@@ -77,11 +77,13 @@
 </div>
 ---
 ## 🏆 GitHub Trophies
+
+
 <div align="center">
- (https://github-profile-trophy.vercel.app/?username=ScriptSherpa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+  <img src="https://github-profile-trophy.vercel.app/?username=ScriptSherpa&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
-<div align="center">
-</div>
+
+
 <h4 align="center">
   <a href="https://github.com/ScriptSherpa?tab=repositories">🔍 View All Projects</a>
 </h4>
