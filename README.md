@@ -76,12 +76,24 @@
 </a>
 </div>
 ---
-## 🏆 GitHub Trophies
-
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ScriptSherpa&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+<!-- GitHub Trophies Section -->
+<div align="center" style="background-color:#1e1e2f; padding: 20px; border-radius: 12px; margin-bottom: 30px;">
+  <h2 style="color:#ff6f61; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="30" height="30" style="margin-right: 10px; vertical-align: middle;">GitHub Trophies
+  </h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=ScriptSherpa&theme=flat&no-frame=true&no-bg=true&row=1&column=7" width="90%" alt="Trophy" style="border-radius: 8px; margin-top: 15px;" />
 </div>
+
+<!-- Contribution Graph -->
+<div align="center" style="background-color:#121212; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+  <h2 style="color:#ff4500; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    <img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="30" height="30" style="margin-right: 10px; vertical-align: middle;">Contribution Graph
+  </h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ScriptSherpa&bg_color=121212&color=ff4500&line=ffa500&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" style="border-radius: 8px;" />
+</div>
+
+<br>
+
 
 
 <h4 align="center">
