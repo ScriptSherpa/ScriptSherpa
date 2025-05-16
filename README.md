@@ -6,7 +6,6 @@
 </h1>
 </h1>
 
-
 <h1 align="center">Hey 👋, I'm GC_Nikhil Malvi</h1>
 <h3 align="center">AI & Robotics Enthusiast | Data Scientist | NCC Cadet | Intern at DRDO 🚀</h3>
 
@@ -14,7 +13,6 @@
 <img src="https://komarev.com/ghpvc/?username=ScriptSherpa&color=blue" alt="Profile Views" />
 </p>
 
----
 
 <p align="center">
   I'm <b>Nikhil</b> — a final year Engineering student and current intern at <b>DRDO</b>, specializing in Robotics, IoT, and AI.
