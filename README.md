@@ -6,7 +6,7 @@
 </h1>
 
 <h1 align="center">Hey 👋, I'm GC_Nikhil Malvi</h1>
-<h3 align="center">AI & Robotics Enthusiast | Data Scientist | NCC Cadet | Intern at DRDO 🚀</h3>
+<h3 align="center">AI & Robotics Enthusiast | Data Scientist | NCC Cadet | Ex at DRDO 🚀</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ScriptSherpa&color=blue" alt="Profile Views" />
@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  I'm <b>Nikhil</b> — a final year Engineering student and current intern at <b>DRDO</b>, specializing in Robotics, IoT, and AI.
+  I'm <b>Nikhil</b> — a final year Engineering student and Ex intern at <b>DRDO</b>, specializing in Robotics, IoT, and AI.
   <br><br>
   🔬 Passionate about AI/ML, Embedded C, and Deep Learning <br>
   🎯 Working on a YOLO-based object tracking system & cybersecurity mini-projects<br>
