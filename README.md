@@ -6,7 +6,7 @@
 </h1>
 
 <h1 align="center">Hey 👋, I'm GC_Nikhil Malvi</h1>
-<h3 align="center">AI & Robotics Enthusiast | Data Scientist | NCC Cadet | Ex at DRDO 🚀</h3>
+<h3 align="center">AI & Robotics Enthusiast | Data Scientist | NCC Cadet | Ex Intern at DRDO 🚀</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ScriptSherpa&color=blue" alt="Profile Views" />
